@@ -24,9 +24,9 @@ https://www.canva.com/design/DAGZYZWiETw/DsA6LWWE9Vx3hNESW9dgFg/edit?utm_content
 ---
 
 ## Live Demo (CODD)
-[<http://codd.cs.gsu.edu/~yourname/cipher_chamber/>](https://codd.cs.gsu.edu/~tthippareddy1/WP/PW/Project1/index.php)
+https://codd.cs.gsu.edu/~tthippareddy1/WP/PW/Project1/index.php
 
 ---
 
 ## GitHub Repository (optional)
-[<https://github.com/your-org/cipher_chamber>](https://github.com/tthippareddy1/Cipher-Chamber_Project1)
+https://github.com/tthippareddy1/Cipher-Chamber_Project1
